@@ -44,7 +44,7 @@ fun AuthForm() {
 @Composable
 fun PremierLeagueComponent() {
     Text(
-        text = "Systech League",
+        text = "Work League",
         modifier = Modifier
             .padding(20.dp)
             .fillMaxWidth(),
